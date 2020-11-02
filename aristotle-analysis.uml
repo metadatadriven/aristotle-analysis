@@ -15,7 +15,7 @@
     <packagedElement xmi:type="uml:UseCase" xmi:id="_lqi-wBziEeuuAbEcWqGzQw" name="Search"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_nNv24BziEeuuAbEcWqGzQw" name="Collaborate"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_uDtpIBziEeuuAbEcWqGzQw" name="Extend"/>
-    <packagedElement xmi:type="uml:UseCase" xmi:id="_vBqfIBziEeuuAbEcWqGzQw" name="Maintain"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_vBqfIBziEeuuAbEcWqGzQw" name="Install"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_xeTgsBziEeuuAbEcWqGzQw" name="Integrate"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_Q3E6YBzjEeuuAbEcWqGzQw" name="Manage users">
       <extend xmi:type="uml:Extend" xmi:id="_aVHiIBzjEeuuAbEcWqGzQw" extendedCase="_kMPNsBziEeuuAbEcWqGzQw" extensionLocation="_aVIwQBzjEeuuAbEcWqGzQw"/>
